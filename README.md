@@ -48,7 +48,7 @@ There were a number of factors to consider when the algorithm had to be designed
 3. Finding a suitable technique to find the shortest travel duration keeping in mind the alternate addresses as well as whether person has a car or not was one of the major challenge. This part took a lot of thinking and time.
 
 ## Results
-The final result csv file can be viewed at `data/best_pairs.csv`. The distribution that has been produced seems fair as the maximum travel duration that a person has to travel in the result is 10 minutes. However, the specialities have not been provided by all the practices and this makes the distribution biased towards the duration of the practice only. Playing with the weights doesn't yield much different results as many practices have specialities missing in them.
+The final result csv file can be viewed at `data/best_pairs.csv`. The distribution that has been produced seems fair as the results consider the specialities as well as the durations. However, the specialities have not been provided by all the practices and this makes the distribution biased towards the duration of the practice only. Playing with the weights can yield to different results. The weights right now consider specialities to have the highest preference.
 
 ## Installation
 
