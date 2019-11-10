@@ -1,8 +1,8 @@
-# Idana Coding Challenge
+# Medical Students Practices Software
 
 ## Introduction
 
-This repo provides an implementation of the Coding challenge by Tomes GmBH. In the exercise, an algorithm is implemented that assigns medical students to practices in the best way possible. The coding challenge is completed within 48 hours as this was the specified time to complete the challenge.
+This repo provides an implementation of the Medical Students Practice Pairs. In the solution, an algorithm is implemented that assigns medical students to practices in the best way possible keeping in mind the information they have provided, including their addresses and alternate addresses. The code is completed within 48 hours. The algorithm makes use of google distance api matrix to query the distance between two particular locations.
 
 ## Algorithm
 The algorithm takes as input, two csv files. The first csv file contains information provided by different students and the second contains information provided by the medical practices. The information includes their addresses as well as different information, such as whether the student has a car or does he/she have any children.
