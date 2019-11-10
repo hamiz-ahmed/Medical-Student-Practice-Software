@@ -88,10 +88,6 @@ class StudentPracticePairTests(unittest.TestCase):
         spec = self.pair.find_intersecting_specialities()
         self.assertEqual(spec[0], 'notfallmedizin')
 
-    def test_get_pair_weight(self):
-        weight = self.pair.get_pair_weight()
-        self.assertEqual(weight, 4942.3)
-
     def test_has_children(self):
         has_children = self.pair.has_children()
         self.assertEqual(has_children,
