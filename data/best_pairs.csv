@@ -1,0 +1,51 @@
+Pair	Weight	Address of the student	Address of the practice	Required to move (No, Alternative 1, Alternative 2)	Children (Yes, No)	Travel Mode (Bicycle, Car)	Duration (Minutes)	Matching Specialities
+S001<->P001	11.124	Im Wörth 8, 60433 Frankfurt am Main	Rhaban-Fröhlich-Straße 11, 60433 Frankfurt am Main	Alternative 2	No	bicycle	1.9333333333333333	notfallmedizin
+S002<->P021	9.482000000000001	Storchgasse 2, 65929 Frankfurt am Main	Hermann-Küster-Straße 30, 65931 Frankfurt am Main	No	No	bicycle	15.616666666666667	notfallmedizin
+S003<->P015	10.28	Turiner Straße 4a, 60598 Frankfurt am Main	Sachsenhäuser Landwehrweg 224, 60598 Frankfurt am Main	Alternative 2	No	bicycle	0.7166666666666667	
+S004<->P047	10.33	Im Staffel 119, 60389 Frankfurt am Main	Im Staffel 108, 60389 Frankfurt am Main	Alternative 1	No	bicycle	0.3	
+S005<->P003	10.995999999999999	Adolf-Miersch-Straße 33, 60528 Frankfurt am Main	Blauenstraße 22, 60528 Frankfurt am Main	Alternative 2	No	bicycle	3.0	notfallmedizin
+S006<->P021	10.914000000000001	Bernburger Weg 2, 65931 Frankfurt am Main	Hermann-Küster-Straße 30, 65931 Frankfurt am Main	No	No	bicycle	3.683333333333333	notfallmedizin
+S007<->P011	10.382	Herzbergstraße 1, 60439 Frankfurt am Main	Pissarroweg 7, 60438 Frankfurt am Main	No	No	bicycle	8.116666666666667	notfallmedizin
+S008<->P021	10.818000000000001	Frankenthaler Weg 2, 65931 Frankfurt am Main	Hermann-Küster-Straße 30, 65931 Frankfurt am Main	Alternative 1	No	bicycle	4.483333333333333	notfallmedizin
+S009<->P024	10.698000000000002	Am Ruhestein 47, 60529 Frankfurt am Main	Am Wiesenhof 19, 60529 Frankfurt am Main	Alternative 2	No	bicycle	5.483333333333333	ärztliches qualitätsmanagement
+S010<->P034	10.267999999999999	Im Uhrig 4, 60433 Frankfurt am Main	Alt-Eschersheim 78, 60433 Frankfurt am Main	No	No	bicycle	0.8166666666666667	
+S011<->P013	11.058000000000002	Eleonore-Sterling-Straße 64, 60433 Frankfurt am Main	Im Geeren 125, 60433 Frankfurt am Main	Alternative 1	No	bicycle	2.4833333333333334	palliativmedizin
+S012<->P050	10.226	Ulrichstraße 43, 60433 Frankfurt am Main	Ziegenhainer Straße 79, 60433 Frankfurt am Main	No	No	bicycle	1.1666666666666667	
+S013<->P011	9.488000000000001	Ben-Gurion-Ring 105, 60437 Frankfurt am Main	Pissarroweg 7, 60438 Frankfurt am Main	Alternative 1	No	bicycle	7.316666666666666	
+S014<->P006	10.374	Danneckerstraße 39, 60594 Frankfurt am Main	Bleichstraße 12, 60313 Frankfurt am Main	Alternative 1	No	bicycle	8.183333333333334	strahlentherapie
+S015<->P006	10.47	Karlsbader Straße 1, 60598 Frankfurt am Main	Bleichstraße 12, 60313 Frankfurt am Main	No	No	bicycle	15.633333333333333	strahlentherapie, röntgendiagnostik
+S016<->P049	10.164000000000001	Bürgerstraße 45, 60437 Frankfurt am Main	Bürgerstraße 1, 60437 Frankfurt am Main	Alternative 1	No	bicycle	1.6833333333333333	
+S017<->P017	10.316	Breubergstraße 20, 60528 Frankfurt am Main	Breubergstraße 5, 60528 Frankfurt am Main	No	No	bicycle	0.4166666666666667	
+S018<->P006	10.786	Friedberger Anlage 18b, 60316 Frankfurt am Main	Bleichstraße 12, 60313 Frankfurt am Main	No	No	bicycle	4.75	strahlentherapie
+S019<->P029	9.544	Flußgasse 8, 60489 Frankfurt am Main	Hohensteiner Straße 16, 60487 Frankfurt am Main	Alternative 1	No	bicycle	6.85	
+S020<->P027	9.808	Franz-Henle-Straße 4, 65929 Frankfurt am Main	Ibellstraße 4, 65929 Frankfurt am Main	Alternative 1	No	bicycle	4.65	
+S021<->P038	9.732000000000001	An der Herrenwiese 92, 60529 Frankfurt am Main	Sonnenweg 63, 60529 Frankfurt am Main	No	No	bicycle	5.283333333333333	
+S022<->P003	10.184000000000001	Lange Straße 31, 60311 Frankfurt am Main	Blauenstraße 22, 60528 Frankfurt am Main	No	No	bicycle	18.016666666666666	notfallmedizin, arbeitsmedizin
+S023<->P014	9.018	Ludwig-Quidde-Straße 2a, 60437 Frankfurt am Main	Hessestraße 34, 60439 Frankfurt am Main	No	No	bicycle	19.483333333333334	proktologie
+S024<->P029	9.304	Battenberger Weg 15, 60489 Frankfurt am Main	Hohensteiner Straße 16, 60487 Frankfurt am Main	No	No	bicycle	8.85	
+S025<->P046	9.998000000000001	Elsterstraße 77, 65933 Frankfurt am Main	Ernst-Wiss-Straße 18, 65933 Frankfurt am Main	No	No	bicycle	3.066666666666667	
+S026<->P034	10.16	Birkholzweg 46, 60433 Frankfurt am Main	Alt-Eschersheim 78, 60433 Frankfurt am Main	No	No	bicycle	1.7166666666666666	
+S027<->P029	9.666	Schmittener Straße 3, 60489 Frankfurt am Main	Hohensteiner Straße 16, 60487 Frankfurt am Main	No	No	bicycle	5.833333333333333	
+S028<->P018	10.498000000000001	Am Ebelfeld 133, 60488 Frankfurt am Main	Gerhart-Hauptmann-Ring 358, 60439 Frankfurt am Main	No	No	bicycle	7.15	flugmedizin
+S029<->P026	9.588000000000001	Ziegelhüttenweg 66, 60598 Frankfurt am Main	Tucholskystraße 10, 60598 Frankfurt am Main	No	No	bicycle	6.483333333333333	
+S030<->P012	10.354000000000001	Musikantenweg 36, 60316 Frankfurt am Main	Kantstraße 13, 60316 Frankfurt am Main	No	No	bicycle	0.1	
+S031<->P043	9.558	Camillo-Sitte-Weg 19, 60488 Frankfurt am Main	Im Waldfeld 22, 60488 Frankfurt am Main	No	No	bicycle	6.733333333333333	
+S032<->P037	10.12	Goldpeppingstraße 28, 60435 Frankfurt am Main	Alkmenestraße 42, 60435 Frankfurt am Main	No	No	bicycle	2.05	
+S033<->P046	9.75	Autogenstraße 11, 65933 Frankfurt am Main	Ernst-Wiss-Straße 18, 65933 Frankfurt am Main	No	Yes	bicycle	5.2	
+S034<->P049	9.31	Am Klingelborn 43, 60437 Frankfurt am Main	Bürgerstraße 1, 60437 Frankfurt am Main	No	Yes	bicycle	8.866666666666667	
+S035<->P023	9.488	Überlinger Weg 17, 60386 Frankfurt am Main	Ilbenstädter Straße 33, 60385 Frankfurt am Main	No	Yes	Car	15.633333333333333	palliativmedizin
+S036<->P023	10.206	Weberstraße 62, 60318 Frankfurt am Main	Ilbenstädter Straße 33, 60385 Frankfurt am Main	No	Yes	Car	9.65	palliativmedizin
+S037<->P017	10.23	Melibocusstraße 21, 60528 Frankfurt am Main	Breubergstraße 5, 60528 Frankfurt am Main	No	Yes	bicycle	1.2	
+S038<->P017	10.23	Melibocusstraße 23, 60528 Frankfurt am Main	Breubergstraße 5, 60528 Frankfurt am Main	No	Yes	bicycle	1.2	
+S039<->P021	10.14	Annabergstraße 54, 65931 Frankfurt am Main	Hermann-Küster-Straße 30, 65931 Frankfurt am Main	No	Yes	Car	1.95	
+S040<->P004	9.65	Breitlacherstraße 65, 60489 Frankfurt am Main	Im Burgfeld 111, 60439 Frankfurt am Main	No	No	Car	14.216666666666667	schlafmedizin
+S041<->P004	10.376	Alt-Niederursel 57, 60439 Frankfurt am Main	Im Burgfeld 111, 60439 Frankfurt am Main	No	No	Car	8.166666666666666	schlafmedizin
+S042<->P047	9.158000000000001	Marktstraße 111, 60388 Frankfurt am Main	Im Staffel 108, 60389 Frankfurt am Main	No	No	Car	10.066666666666666	
+S043<->P002	10.532	Toni-Sender-Straße 15, 65936 Frankfurt am Main	Kurmainzer Straße 160, 65936 Frankfurt am Main	No	No	bicycle	6.866666666666666	tropenmedizin
+S044<->P025	10.936	Böcklinstraße 11, 60596 Frankfurt am Main	Scheerengasse 8, 60599 Frankfurt am Main	No	No	Car	11.75	sozialmedizin, palliativmedizin
+S045<->P049	9.952	Märker Straße 9, 60437 Frankfurt am Main	Bürgerstraße 1, 60437 Frankfurt am Main	No	No	Car	3.45	
+S046<->P001	9.986	Thielenstraße 19, 60433 Frankfurt am Main	Rhaban-Fröhlich-Straße 11, 60433 Frankfurt am Main	No	No	bicycle	3.1666666666666665	
+S047<->P008	9.58	Albert-Einstein-Straße 48, 60437 Frankfurt am Main	Margeritenweg 17, 60433 Frankfurt am Main	No	No	Car	14.8	chirotherapie
+S048<->P008	9.712	Vatterstraße 61, 60386 Frankfurt am Main	Margeritenweg 17, 60433 Frankfurt am Main	No	No	Car	13.7	infektiologie
+S049<->P031	10.122	Humboldtstraße 56, 60318 Frankfurt am Main	Baustraße 16, 60322 Frankfurt am Main	No	No	bicycle	2.033333333333333	
+S050<->P048	10.06	Beunestraße 28, 65934 Frankfurt am Main	Oeserstraße 31a, 65934 Frankfurt am Main	No	No	Car	2.55	

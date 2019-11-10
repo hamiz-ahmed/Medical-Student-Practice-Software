@@ -1,0 +1,51 @@
+id	address	alternativeAddress1	alternativeAddress2	hasCar	hasChildren	favoriteSpecialties
+S001	Am Waldacker 21c, 60388 Frankfurt am Main	Pforzheimer Straße 15, 60329 Frankfurt am Main	Im Wörth 8, 60433 Frankfurt am Main	0	0	Notfallmedizin, Kinder-Endokrinologie und -Diabetologie
+S002	Storchgasse 2, 65929 Frankfurt am Main	Triebstraße 45, 60388 Frankfurt am Main	Eifelstraße 51, 60529 Frankfurt am Main	0	0	Notfallmedizin, Hämostaseologie
+S003	Niedenau 51, 60325 Frankfurt am Main	An der Lühe 4, 60488 Frankfurt am Main	Turiner Straße 4a, 60598 Frankfurt am Main	0	0	Notfallmedizin, Ärztliches Qualitätsmanagement 
+S004	Rödelheimer Landstraße 99, 60489 Frankfurt am Main	Im Staffel 119, 60389 Frankfurt am Main	Haigerer Straße 22, 65936 Frankfurt am Main	0	0	Notfallmedizin, Arbeitsmedizin, Notfallmedizin 
+S005	Hamburger Allee 56, 60486 Frankfurt am Main	Raimundstraße 6, 60431 Frankfurt am Main	Adolf-Miersch-Straße 33, 60528 Frankfurt am Main	0	0	Notfallmedizin, Andrologie
+S006	Bernburger Weg 2, 65931 Frankfurt am Main	An der Schwarzbachmühle 21, 60529 Frankfurt am Main	Niddastraße 98-102, 60329 Frankfurt am Main	0	0	Notfallmedizin
+S007	Herzbergstraße 1, 60439 Frankfurt am Main	Bernhard-Mannfeld-Weg 58, 60599 Frankfurt am Main	Emmerich-Josef-Straße 44, 65929 Frankfurt am Main	0	0	Notfallmedizin
+S008	Märker Straße 24, 60437 Frankfurt am Main	Frankenthaler Weg 2, 65931 Frankfurt am Main	Buchrainstraße 43, 60599 Frankfurt am Main	0	0	Notfallmedizin, Röntgendiagnostik
+S009	Fuchstanzstraße 75, 60489 Frankfurt am Main	Buchenrodestraße 18, 60528 Frankfurt am Main	Am Ruhestein 47, 60529 Frankfurt am Main	0	0	Notfallmedizin, Ärztliches Qualitätsmanagement
+S010	Im Uhrig 4, 60433 Frankfurt am Main	Homburger Landstraße 129, 60435 Frankfurt am Main	Im Burgfeld 134, 60439 Frankfurt am Main	0	0	Strahlentherapie
+S011	Flensburger Straße 13, 60435 Frankfurt am Main	Eleonore-Sterling-Straße 64, 60433 Frankfurt am Main		0	0	Strahlentherapie, Palliativmedizin
+S012	Ulrichstraße 43, 60433 Frankfurt am Main	Märker Straße 42, 60437 Frankfurt am Main		0	0	Strahlentherapie, Stimm- und Sprechstörungen
+S013	Flanbrechtstraße 38, 65931 Frankfurt am Main	Ben-Gurion-Ring 105, 60437 Frankfurt am Main		0	0	Strahlentherapie, Röntgendiagnostik, Spezielle Viszeralchirurgie
+S014	Rombergstraße 22, 65931 Frankfurt am Main	Danneckerstraße 39, 60594 Frankfurt am Main		0	0	Strahlentherapie
+S015	Karlsbader Straße 1, 60598 Frankfurt am Main	Haingasse 25, 60388 Frankfurt am Main		0	0	Strahlentherapie, Röntgendiagnostik
+S016	Oberwiesenstraße 3, 60435 Frankfurt am Main	Bürgerstraße 45, 60437 Frankfurt am Main		0	0	Strahlentherapie, Transplantationsmedizin
+S017	Breubergstraße 20, 60528 Frankfurt am Main	Görresstraße 6, 60386 Frankfurt am Main		0	0	Strahlentherapie, Palliativmedizin
+S018	Friedberger Anlage 18b, 60316 Frankfurt am Main	Eschersheimer Landstraße 419, 60431 Frankfurt am Main		0	0	Strahlentherapie
+S019	Im Kammerdorf 5, 60386 Frankfurt am Main	Flußgasse 8, 60489 Frankfurt am Main		0	0	Strahlentherapie, Röntgendiagnostik
+S020	Am Dammgraben 62, 60486 Frankfurt am Main	Franz-Henle-Straße 4, 65929 Frankfurt am Main		0	0	Homöopathie, Labordiagnostik
+S021	An der Herrenwiese 92, 60529 Frankfurt am Main			0	0	Homöopathie, Hämostaseologie
+S022	Lange Straße 31, 60311 Frankfurt am Main			0	0	Proktologie, Arbeitsmedizin, Notfallmedizin
+S023	Ludwig-Quidde-Straße 2a, 60437 Frankfurt am Main			0	0	Proktologie
+S024	Battenberger Weg 15, 60489 Frankfurt am Main			0	0	Proktologie, Kinder-Orthopädie
+S025	Elsterstraße 77, 65933 Frankfurt am Main			0	0	Proktologie, Transplantationsmedizin
+S026	Birkholzweg 46, 60433 Frankfurt am Main			0	0	Flugmedizin, Kinder-Rheumatologie
+S027	Schmittener Straße 3, 60489 Frankfurt am Main			0	0	Flugmedizin, Hämostaseologie
+S028	Am Ebelfeld 133, 60488 Frankfurt am Main			0	0	Flugmedizin, Kinder-Nephrologie, Spezielle Viszeralchirurgie
+S029	Ziegelhüttenweg 66, 60598 Frankfurt am Main			0	0	Flugmedizin
+S030	Musikantenweg 36, 60316 Frankfurt am Main			0	0	Sexualmedizin, Kinder-Rheumatologie
+S031	Camillo-Sitte-Weg 19, 60488 Frankfurt am Main			0	0	Sexualmedizin, Transplantationsmedizin
+S032	Goldpeppingstraße 28, 60435 Frankfurt am Main			0	0	Sexualmedizin, Naturheilverfahren, Allergologie
+S033	Autogenstraße 11, 65933 Frankfurt am Main			0	1	Sexualmedizin
+S034	Am Klingelborn 43, 60437 Frankfurt am Main			0	1	Palliativmedizin
+S035	Überlinger Weg 17, 60386 Frankfurt am Main			1	1	Palliativmedizin
+S036	Weberstraße 62, 60318 Frankfurt am Main			1	1	Palliativmedizin
+S037	Melibocusstraße 21, 60528 Frankfurt am Main			1	1	Palliativmedizin, Kinder-Nephrologie
+S038	Melibocusstraße 23, 60528 Frankfurt am Main			1	1	Schlafmedizin
+S039	Annabergstraße 54, 65931 Frankfurt am Main			1	1	Schlafmedizin, Kinder-Orthopädie
+S040	Breitlacherstraße 65, 60489 Frankfurt am Main			1	0	Schlafmedizin
+S041	Alt-Niederursel 57, 60439 Frankfurt am Main			1	0	Schlafmedizin, Naturheilverfahren, Allergologie 
+S042	Marktstraße 111, 60388 Frankfurt am Main			1	0	Tropenmedizin, Medikamentöse Tumortherapie
+S043	Toni-Sender-Straße 15, 65936 Frankfurt am Main			1	0	Tropenmedizin, Kinder-Nephrologie
+S044	Böcklinstraße 11, 60596 Frankfurt am Main			1	0	Tropenmedizin, Sozialmedizin, Palliativmedizin
+S045	Märker Straße 9, 60437 Frankfurt am Main			1	0	Tropenmedizin, Labordiagnostik
+S046	Thielenstraße 19, 60433 Frankfurt am Main			1	0	Stimm- und Sprechstörungen
+S047	Albert-Einstein-Straße 48, 60437 Frankfurt am Main			1	0	Chirotherapie
+S048	Vatterstraße 61, 60386 Frankfurt am Main			1	0	Infektiologie
+S049	Humboldtstraße 56, 60318 Frankfurt am Main			1	0	Ärztliches Qualitätsmanagement
+S050	Beunestraße 28, 65934 Frankfurt am Main			1	0	Sozialmedizin, Kinder-Nephrologie
